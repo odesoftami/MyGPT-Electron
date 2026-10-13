@@ -2,7 +2,7 @@
   "name": "mygpt",
   "productName": "MyGPT",
   "version": "2.0.0",
-  "description": "Standalone ChatGPT desktop client - Denys Oleksiienko style 22-07-2026 ",
+  "description": "Standalone ChatGPT desktop client - Denys Oleksiienko style 22-07-2026",
   "main": "main.js",
   "type": "commonjs",
   "author": "Denys Oleksiienko",
@@ -16,6 +16,9 @@
     "mac": {
       "category": "public.app-category.productivity",
       "target": "dmg",
+      "icon": "MyGPT.icns"
+    },
+    "dmg": {
       "icon": "MyGPT.icns"
     },
     "files": [
