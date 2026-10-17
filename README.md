@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/odesoftami-mygpt-electron.png"
+       alt="Odesoftami QA Monitor — Browser QA and Monitoring Tool"
+       width="100%">
+</p>
+
 # MyGPT
 
 A standalone ChatGPT desktop application for macOS.
